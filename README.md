@@ -1,3 +1,7 @@
+This is an unofficial and unsupported fork of sapling-mpc that includes a zip file containing all of of the rust crates needed to build the software. To use it, unzip the file and set the CARGO\_HOME environment variable.
+
+Actually, you must first assemble the cargo_home files into one .zip file and then extract it (because of GitHub's 100MB file size limitation)
+
 # sapling-mpc
 
 This code can be used to participate and verify the Sapling network upgrade MPC.
